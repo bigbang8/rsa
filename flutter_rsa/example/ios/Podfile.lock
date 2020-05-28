@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_rsa (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_rsa (from `.symlinks/plugins/flutter_rsa/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_rsa:
+    :path: ".symlinks/plugins/flutter_rsa/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_rsa: 1ee213ad869c5fd5ae735d90a3c21f991a14c50c
+
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
+
+COCOAPODS: 1.8.4

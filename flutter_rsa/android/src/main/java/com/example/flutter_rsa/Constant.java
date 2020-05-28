@@ -1,0 +1,10 @@
+package com.example.flutter_rsa;
+
+/**
+ * Created by lyj on 2020/5/28.
+ */
+
+public class Constant {
+    public static final String privateKey = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBALP2pm0/0cu6MKGNSf6BqmSCBFibOK0APGWxSCgNzu2O8aBNhZmjQXYkRCRQeff/0pXGBTFuQJLBA0xme/heWq3ZB7bOtksR99esc/eg8bUBboQPcP+JILhocrvMfYdnc3DNTHftloJSAp84a9TwbG3OKquD67muA+z7fXd1ADU1AgMBAAECgYEAoRnwKmSzPplS54w/7SHOk2MA2QE7X0OSzcZCPfj+gRMxortDGiJXe5dDmO6iASx2K7W0+GcmTzmR5lboK5LrwKunfxpQ2kXA3afTp6brMvGTgmMMfSJo5bNe3isjfe/JfDW8XiPuy4iQFqaYpM2///iqmmQOJcqNOHIC+SytxIECQQDpLgrLbyNE6BbmWN2BwHFbF+szUE/Ce5p/jONlYb0++JSy6DiCj8Vr8KLZuFCC8C/eDNkHAlGw42pq5yKpqZmNAkEAxZNaxfYzWCPT73vjN6IdWhr02XrERZ10OCeWoHSk4RPYbHVe6+dXF2ovYG6pzdQmprXngjKwKJwOC1PMsDgcSQJAMBb6yvHkyDVFY8Q4CqZxumO4ciDCEk4DkwKvcx0xNmd141/ZJ7QW9yftrhFBKX/3n0fvCm8EAgMk019P2sXLkQJAaJe3aDELwU9GNPN6t8rkivzWPgNVwBy4l7mtbcgSOO0Ol2wTEgNoAYc/CWfMEKCMzZhitHQs+XKTpL96DpfFsQJAC7Fjy3LfkG8LpFytkZEh3oZ04FJuYj5B47NDVdnoaksbd2pPdNXkv61A+GCdeIVBNIXswGlBHYJmJ3OxwFNPnw==";
+    public static final String pannerId = "20190626";
+}
